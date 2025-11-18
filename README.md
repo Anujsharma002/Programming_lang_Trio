@@ -1,4 +1,3 @@
-
 # Trio --- A Minimal, Weakly Typed, Interpreted Programming Language
 
 Trio is a lightweight, experimental programming language built from
@@ -54,6 +53,10 @@ Run it via:
 - Control flow improvements\
 - A small standard library\
 - Packaging Trio as a pip-installable tool
+
+## Demo
+
+[🎥 Watch Demo](trio.mp4)
 
 ## 🤝 Contributing
 
